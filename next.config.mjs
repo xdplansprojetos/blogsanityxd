@@ -2,8 +2,8 @@
 const config = {
   images: {
     remotePatterns: [
-      { hostname: 'blogsanityxd.vercel.app' },
-      { hostname: 'blogsanityxd.vercel.app' },
+      { hostname: 'blogsanityxd-git-main-xdplansprojetos.vercel.app' },
+      { hostname: 'blogsanityxd-k49ho6qni-xdplansprojetos.vercel.app' },
     ],
   },
   typescript: {
